@@ -37,11 +37,11 @@ var RegisterComponent = /** @class */ (function () {
             moduleId: module.id,
             templateUrl: 'register.component.html'
         }),
-        __metadata("design:paramtypes", [router_1.Router,
-            index_1.UserService,
+        __metadata("design:paramtypes", [typeof (_a = typeof router_1.Router !== "undefined" && router_1.Router) === "function" && _a || Object, index_1.UserService,
             index_1.AlertService])
     ], RegisterComponent);
     return RegisterComponent;
+    var _a;
 }());
 exports.RegisterComponent = RegisterComponent;
 //# sourceMappingURL=register.component.js.map
